@@ -1,0 +1,84 @@
+/*XXS*/
+@media (max-width:479px){
+	.scott{
+		height:200px;
+	}
+	.jet{
+		height:200px;
+	}
+	.kramp{
+		height:200px;
+	}
+}
+/*XS*/
+@media (min-width:480px) and (max-width:639px){
+	.scott{
+		height:200px;
+	}
+	.jet{
+		height:200px;
+	}
+	.kramp{
+		height:200px;
+	}
+}
+/*S*/
+@media (min-width:640px) and (max-width:767px){
+	.scott{
+		height:100px;
+	}
+	.jet{
+		height:100px;
+	}
+	.kramp{
+		height:100px;
+	}
+}
+/*M*/
+@media (min-width:768px) and (max-width:959px){
+	.scott{
+		height:70px;
+	}
+	.jet{
+		height:70px;
+	}
+	.kramp{
+		height:70px;
+	}
+}
+/*L*/
+@media (min-width:960px) and (max-width:1399px){
+	.scott{
+		height:50px;
+	}
+	.jet{
+		height:50px;
+	}
+	.kramp{
+		height:50px;
+	}
+}
+/*XL*/
+@media (min-width:1400px){
+	.scott{
+		height:50px;
+	}
+	.jet{
+		height:50px;
+	}
+	.kramp{
+		height:50px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
